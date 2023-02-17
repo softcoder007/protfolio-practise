@@ -17,7 +17,7 @@
   color: orange;
 }
 nav {
-  margin-left: 100px;
+  padding: 50px 200px;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -28,7 +28,7 @@ nav li {
 }
 nav ul {
   display: flex;
-  margin: 50px 200px;
+
   align-items: center;
 }
 .header {
